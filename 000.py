@@ -17,5 +17,5 @@ def add_num(img):
     return 0
 
 if __name__=='__main__':
-    img=Image.open('image.jpg')
+    img=Image.open('images.jpg')
     add_num(img)
